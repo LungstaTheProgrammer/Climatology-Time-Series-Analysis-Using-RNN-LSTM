@@ -5,13 +5,14 @@ In this project I will demonstrate how to use Deep Learning
 Algorithms, such as the Recurrent [Deep] Neural Network in this 
 example, to use SSN (Sunspot Number) to predict climate change.
 
+##### **SNN (Sunspot number)**
 "A measure of natural phenomenon, the sunspot number (SSN)
  is a solar activity index with long data record. It is 
  frequently used when studying long-term phenomena like 
  climate change, though it may not be the most appropriate 
  index (Georgieva and Kirov, 2006)."
  
- ##**Getting Started**
+ ## **Getting Started**
 
 Simply clone the repository and run the .ipynb file in jupyter
 notebook, Goodgle Colabotary, or any other text editor that 
